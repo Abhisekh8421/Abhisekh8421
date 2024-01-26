@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Socket.Io,Firebase,AWS Cloud**
 
-- 👯 I’m recently worked on [User & Admin Management System](https://github.com/Abhisekh8421/User-Management.git)
+- 👯 I recently worked on [User & Admin Management System](https://github.com/Abhisekh8421/User-Management.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhisekh8421?tab=repositories](https://github.com/Abhisekh8421?tab=repositories)
 
