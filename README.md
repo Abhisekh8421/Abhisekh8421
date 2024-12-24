@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisekh8421" alt="abhisekh8421" /></a> </p>
 
-- 🔭 I’m currently working on [Youtube Studio](https://github.com/Abhisekh8421/Youtube_Studio.git)
+- 🔭 I’m currently working on [Clothing Store](https://github.com/Abhisekh8421/Clothing_Store.git)
 
 - 🌱 I’m currently learning **Socket.Io,Firebase,AWS Cloud**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhisekh8421?tab=repositories](https://github.com/Abhisekh8421?tab=repositories)
 
-- 💬 Ask me about **Nodejs,Expressjs,MongoDb**
+- 💬 Ask me about **Nodejs,Expressjs,MongoDb,ReactJs**
 
 - 📫 How to reach me **abhisekhsuru@gmail.com**
 
